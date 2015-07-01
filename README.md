@@ -1,4 +1,4 @@
-# Desk.com Canvas Cases
+# Desk.com Canvas Articles
 This is a Desk.com canvas application that allows you to search for related articles by providing it with a search term. Just to make sure we provide a valuable response we also strip meaningless words from the query.
 
 ![Preview](https://api.monosnap.com/rpc/file/download?id=kZSx7QhKE3Qwhkui8Aq2xhTfIoVHhb)
