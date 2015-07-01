@@ -1,0 +1,12 @@
+{
+  "name": "Canvas Articles",
+  "description": "A Desk.com canvas app that shows related articles.",
+  "keywords": ["productivity", "service", "canvas", "related", "articles"],
+  "website": "https://github.com/desklabs/canvas-articles",
+  "repository": "https://github.com/desklabs/canvas-articles.git",
+  "logo": "http://webassets.desk.com/resources/images/icons/favicon-apple-114x114.png?v=3.5",
+  "success_url": "https://login.desk.com",
+  "env": {
+    "NODE_ENV": "production"
+  }
+}
